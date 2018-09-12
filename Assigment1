@@ -1,0 +1,36 @@
+
+Assignment 1: First visualization design
+In this assignment, you will be creating a visualization that will convey meaningful insight into a small data set. The goal of this exercise is to get you thinking creatively about what kinds of relationships and patterns might exist in an unknown dataset, and brainstorm how to bring those patterns to light. You are free to use any graphics or visualization-building tool that you choose, including creating it by hand. I will not be grading you on the high-tech-quality of your visualization, but rather on the quality of the story you are able to tell with the visualization, and how well you are able to justify the choices you made.
+
+Data set: U.S. Population, 1900 vs. 2000
+Every 10 years, the US government counts everyone in the country. This seemingly simple-sounding task ends up being enormously important as the count influences everything from congressional districting to social services. Recently, the census process has stoked debates about immigration, voter suppression, sampling bias, and more.
+
+The dataset I'm sharing with you contains a high-level summary of census data for two years a century apart: 1900 and 2000. The data is a CSV (comma-separated values) file that describes the U.S. population in terms of year, reported sex (1: male, 2: female), age group (binned into 5 year segments from 0-4 years old up to 90+ years old), and the total count of people per group. There are 38 data points per year, for a total of 76 data points.
+
+Dataset: CSV
+Source: U.S. Census Bureau via IPUMS
+
+Your task
+For this assignment, you should create a static (i.e., a single image) visualization that you believe effectively communicates the data and provide a short write-up (no more than three paragraphs--two is probably fine) describing your design. The first thing you will do is decide on a question that you would like your visualization to answer. Design your vis to answer that question, and use the question as the title of your image.
+
+You must use the data given, but you can transform it however you wish, be it by grouping the data, computing summary statistics of various groups or aggregates, excluding data that is irrelevant to your question, etc. Your image should be understandable on its own, without needing to refer to your write-up. This means that you will likely need labels, a title, a legend, or other text in your image!
+
+In your write-up, you should describe the story that you are trying to tell. What is the takeaway answer to your question that you believe the visualization gives its audience? Next, provide rational for why you designed the visualization in this way to answer that question. How does your choice of visualization "fit" the question? Consider your use of such visual variables as size, position, color, or others that you can think of.
+
+Submission
+By Sunday at 10 PM, you must submit a .zip file containing:
+
+your image, as a PNG, JPG, or PDF file
+your write-up, as a TXT file
+Be sure to include your name on both of these documents.
+
+You should also bring a print-out of your visualization to class on Monday.
+
+Grading
+This is a smaller assignment than most that follow it will be, and will be worth 10 pts:
+
+3 pts: The story: what insight are you able to provide into the data?
+3 pts: The vis: how well does the vis convey this insight?
+3 pts: The justification: how well are you able to articulate the reasons for your design choices?
+1 pt: The logistics: how well do you follow the format and structure of the assignment?
+I do not expect you to create a perfect visualization for this assignment. There will be a follow-up assignment in which you will have the opportunity to critique and revise your design.
